@@ -163,6 +163,10 @@ Give John a Password for his Account
 
 Set Access for John to Support Department with View Only Role
 
+<img src="https://i.imgur.com/WwFniSp.png" height="80%" width="80%" alt="Verify Agents Made"/>
+
+Verify Agents have been Made
+
 </p>
 <br />
 
@@ -174,7 +178,22 @@ Agent Panel → Users → <em>Add New</em>.<br/>
 Add <strong>Karen</strong> and <strong>Ken</strong> as end users. Users are ticket requesters; creating test users helps validate intake, notifications, and workflow.
 </p>
 <p>
-  <img src="YOUR_IMAGE_LINK" height="80%" width="80%" alt="Create Users"/>
+<img src="https://i.imgur.com/rBThm23.png" height="80%" width="80%" alt="Access Users"/>
+
+To make Users go to Agent Panel → Users → Add User
+  
+<img src="https://i.imgur.com/RSxoUZi.png" height="80%" width="80%" alt="Create Karen"/>
+
+Create Karen User Account
+  
+<img src="https://i.imgur.com/rtTFwnv.png" height="80%" width="80%" alt="Create Ken"/>
+
+Create Ken User Account
+  
+<img src="https://i.imgur.com/wQVyCyw.png" height="80%" width="80%" alt="Verify Users Made"/>
+
+Verify in Users that User accounts have been made
+
 </p>
 <br />
 
@@ -189,7 +208,26 @@ Create <strong>Sev-C</strong> (Grace: 8 hours; Schedule: Business Hours).<br/>
 Assign SLAs to departments or help topics to enforce response/resolution expectations.
 </p>
 <p>
-  <img src="YOUR_IMAGE_LINK" height="80%" width="80%" alt="SLA Plans"/>
+<img src="https://i.imgur.com/Ma01PCI.png" height="80%" width="80%" alt="SLA Menu"/>
+
+Access SLA Plans through Admin Panel → Manage → SLA
+  
+<img src="https://i.imgur.com/4e1XlhX.png" height="80%" width="80%" alt="Sev-A SLA"/>
+
+Create Sev-A SLA, Emergency Fix Needed ASAP (Banking & Finaicial System Down)
+
+<img src="https://i.imgur.com/chkG7p3.png" height="80%" width="80%" alt="Sev-B SLA"/>
+
+Create Sev-B SLA, Issues that Disrupt operations but not a full Outage (Payroll Portal is down while other services fuction)
+
+<img src="https://i.imgur.com/ftil8PU.png" height="80%" width="80%" alt="Sev-C SLA"/>
+
+Create Sev-C SLA, Typical Issues that aren't emergencies (Passwords, Emails, Account Creation)
+
+<img src="https://i.imgur.com/uhf4zLg.png" height="80%" width="80%" alt="Verify Created SLA Plans"/>
+
+Verify SLA Plans Created
+  
 </p>
 <br />
 
