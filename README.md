@@ -87,8 +87,15 @@ Add a new SysAdmin Department
 Admin Panel → Agents → Teams → <em>Add New Team</em>.<br/>
 Create <strong>Online Banking</strong> and pull agents from multiple departments as needed. Teams enable cross-functional collaboration without changing departmental structure.
 </p>
-<p>
-  <img src="YOUR_IMAGE_LINK" height="80%" width="80%" alt="Teams"/>
+<p> 
+<img src="https://i.imgur.com/72wNMQN.png" height="80%" width="80%" alt="Before Making Online Banking Team"/>
+
+Access Teams through the Admin Panel → Agents → Teams to make a new Team
+  
+<img src="https://i.imgur.com/pzAbUbe.png" height="80%" width="80%" alt="Make New Team"/>
+
+Access New Team to create New Online Banking Team
+  
 </p>
 <br />
 
