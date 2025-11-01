@@ -149,15 +149,19 @@ Give Jane a Password for her Account
 
 <img src="https://i.imgur.com/8RpU1t6.png" height="80%" width="80%" alt="Set Access for Jane"/>
 
-Set Access for Jane to be SysAdmin Departmnet with Supreme Admin Role
+Set Access for Jane to be SysAdmin Department with Supreme Admin Role
 
-<img src="https://i.imgur.com/RFQciE7.png" height="80%" width="80%" alt="Set Team for Jane"/>
+<img src="https://i.imgur.com/9Ggjbd1.png" height="80%" width="80%" alt="Making John"/>
 
 Access Add New Agent to set Name and Email of Agent from here click Set Password to give Agent a password (John)
 
-<img src="https://i.imgur.com/8IdRefF.png" height="80%" width="80%" alt="Set Password John"/>
+<img src="https://i.imgur.com/xuEBWXc.png" height="80%" width="80%" alt="Make John Account"/>
 
 Give John a Password for his Account
+
+<img src="https://i.imgur.com/pCQ2yog.png" height="80%" width="80%" alt="Set Access for John"/>
+
+Set Access for John to Support Department with View Only Role
 
 </p>
 <br />
