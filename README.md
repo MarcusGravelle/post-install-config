@@ -274,17 +274,6 @@ Verify Help Topics Created
 
 <br />
 
-<!-- STEP 9: Verification -->
-
-<p>
-<strong>Step 9 – Verify Workflow:</strong><br/>
-From the End-User Portal (<code>/osTicket</code>), submit a test ticket under a configured Help Topic. In the Admin/Agent Panel (<code>/scp</code>), verify the ticket appears, inherits the expected Department and SLA, can be assigned to Jane/John, updated, and closed. Confirm any notification emails (if configured).
-</p>
-<p>
-  <img src="YOUR_IMAGE_LINK" height="80%" width="80%" alt="Verification: create and process ticket"/>
-</p>
-<br />
-
 ---
 
 <h2>End Result</h2>
