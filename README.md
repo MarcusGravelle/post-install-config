@@ -240,8 +240,38 @@ Add: <strong>Business Critical Outage</strong>, <strong>Personal Computer Issues
 Help topics guide end users to categorize requests correctly and can drive routing, forms, and SLAs.
 </p>
 <p>
-  <img src="YOUR_IMAGE_LINK" height="80%" width="80%" alt="Help Topics"/>
-</p>
+  <img src="https://i.imgur.com/tmlsjKp.png" height="80%" width="80%" alt="Access Help Topics"/>
+
+To Access Help Topics stay in Admin Panel and go to the Help Topics Tab
+
+<img src="https://i.imgur.com/W8frAAl.png" height="80%" width="80%" alt="Business Critcal Outage"/>
+
+Create Business Critcal Outage Help Topic
+
+<img src="https://i.imgur.com/W8frAAl.png" height="80%" width="80%" alt="Business Critcal Outage"/>
+
+Create Business Critcal Outage Help Topic
+
+<img src="https://i.imgur.com/cicc61W.png" height="80%" width="80%" alt="Personal Computer Issues"/>
+
+Create Personal Computer Issues Help Topic
+
+<img src="https://i.imgur.com/rQjntft.png" height="80%" width="80%" alt="Equipment Request Topic"/>
+
+Create Equipment Request Help Topic
+
+<img src="https://i.imgur.com/5weajnc.png" height="80%" width="80%" alt="Password Reset Topic"/>
+
+Create Password Reset Help Topic
+
+<img src="https://i.imgur.com/yeNvSTw.png" height="80%" width="80%" alt="Other Help Topic"/>
+
+Create "Other" Help Topic for any issues or inquiries outside the other topics
+
+<img src="https://i.imgur.com/FZwM0E4.png" height="80%" width="80%" alt="Verify Help Topics Created"/>
+
+Verify Help Topics Created
+
 <br />
 
 <!-- STEP 9: Verification -->
