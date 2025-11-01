@@ -141,7 +141,7 @@ Access the Agent List from Admin Panel → Agents to make a new Agent
   
   <img src="https://i.imgur.com/j77Gyvx.png" height="80%" width="80%" alt="Making Jane"/>
 
-Access Add New Agent to set Name and Email of Agent from here click Set Password to give Agent a password
+Access Add New Agent to set Name and Email of Agent from here click Set Password to give Agent a password (Jane)
 
 <img src="https://i.imgur.com/1jTRO5Y.png" height="80%" width="80%" alt="Set Password Jane"/>
 
@@ -151,9 +151,9 @@ Give Jane a Password for her Account
 
 Set Access for Jane to be SysAdmin Departmnet with Supreme Admin Role
 
-<img src="https://i.imgur.com/8IdRefF.png" height="80%" width="80%" alt="Making John"/>
+<img src="https://i.imgur.com/RFQciE7.png" height="80%" width="80%" alt="Set Team for Jane"/>
 
-Access Add New Agent to set Name and Email of Agent from here click Set Password to give Agent a password
+Access Add New Agent to set Name and Email of Agent from here click Set Password to give Agent a password (John)
 
 <img src="https://i.imgur.com/8IdRefF.png" height="80%" width="80%" alt="Set Password John"/>
 
