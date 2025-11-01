@@ -57,7 +57,11 @@ Access New Role & create a new role for Supreme Admin
 <img src="https://i.imgur.com/aVe8Gzy.png" height="80%" width="80%" alt="Knowledgebase"/>
 
 Assign Supreme Admin with all Permissions within Tickets, Tasks, & Knowledgebase
-  
+
+<img src="https://i.imgur.com/MD3nCTS.png" height="80%" width="80%" alt="Verify Supreme Admin Created"/>
+
+Verify Supreme Admin Role Created
+
 </p>
 <br />
 
@@ -76,7 +80,11 @@ Access Departments from Admin Panel → Agents → Departments
 <img src="https://i.imgur.com/95P5RN4.png" height="80%" width="80%" alt="Make SysAdmin"/>
 
 Add a new SysAdmin Department
-  
+
+<img src="https://i.imgur.com/qVF8xqe.png" height="80%" width="80%" alt="Verify SysAdmin Created"/>
+
+Verify SysAdmin Department has been Created
+
 </p>
 <br />
 
@@ -95,7 +103,10 @@ Access Teams through the Admin Panel → Agents → Teams to make a new Team
 <img src="https://i.imgur.com/pzAbUbe.png" height="80%" width="80%" alt="Make New Team"/>
 
 Access New Team to create New Online Banking Team
-  
+
+<img src="https://i.imgur.com/L661qUC.png" height="80%" width="80%" alt="Verify Online Banking Created"/>
+
+Verify Online Banking Team has been Created
 </p>
 <br />
 
