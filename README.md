@@ -118,7 +118,10 @@ Admin Panel → Settings → User Settings.<br/>
 Set policy per lab requirement. For example, <em>Registration Required</em>: require users to register and log in to create tickets (i.e., do <strong>not</strong> allow unregistered users to create tickets). This enforces identity and improves traceability.
 </p>
 <p>
-  <img src="YOUR_IMAGE_LINK" height="80%" width="80%" alt="User settings registration policy"/>
+  <img src="https://i.imgur.com/JCOxhAo.png" height="80%" width="80%" alt="User settings registration policy"/>
+
+Adjust Settings to match whether accounts will need to be registered to make Tickets
+  
 </p>
 <br />
 
@@ -132,7 +135,30 @@ Add <strong>John</strong> (Dept: Support; assign suitable role).<br/>
 Agents handle tickets; roles and departments control what they can see and do.
 </p>
 <p>
-  <img src="YOUR_IMAGE_LINK" height="80%" width="80%" alt="Create Agents"/>
+  <img src="https://i.imgur.com/8IdRefF.png" height="80%" width="80%" alt="Before making Agents"/>
+
+Access the Agent List from Admin Panel → Agents to make a new Agent
+  
+  <img src="https://i.imgur.com/j77Gyvx.png" height="80%" width="80%" alt="Making Jane"/>
+
+Access Add New Agent to set Name and Email of Agent from here click Set Password to give Agent a password
+
+<img src="https://i.imgur.com/1jTRO5Y.png" height="80%" width="80%" alt="Set Password Jane"/>
+
+Give Jane a Password for her Account
+
+<img src="https://i.imgur.com/8RpU1t6.png" height="80%" width="80%" alt="Set Access for Jane"/>
+
+Set Access for Jane to be SysAdmin Departmnet with Supreme Admin Role
+
+<img src="https://i.imgur.com/8IdRefF.png" height="80%" width="80%" alt="Making John"/>
+
+Access Add New Agent to set Name and Email of Agent from here click Set Password to give Agent a password
+
+<img src="https://i.imgur.com/8IdRefF.png" height="80%" width="80%" alt="Set Password John"/>
+
+Give John a Password for his Account
+
 </p>
 <br />
 
